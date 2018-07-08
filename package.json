@@ -1,0 +1,23 @@
+{
+  "name": "pauzer",
+  "version": "1.0.0",
+  "description": "A super minimalist shareable list app",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonpau/pauzer.git"
+  },
+  "author": "Pau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonpau/pauzer/issues"
+  },
+  "homepage": "https://github.com/jasonpau/pauzer#readme"
+}
